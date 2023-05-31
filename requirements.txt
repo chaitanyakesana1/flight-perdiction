@@ -1,11 +1,11 @@
-click
+click==8.1.3
 colorama
 Flask
-importlib-metadata
+importlib-metadata==3.6.0
 itsdangerous
-Jinja2
+Jinja2==3.1.2
 joblib
-MarkupSafe
+MarkupSafe==2.1.1
 numpy
 pandas
 python-dateutil
